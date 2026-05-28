@@ -1,0 +1,13 @@
+[package]
+name = "uxandeh"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jacob"]
+description = "A deterministic, fractal-based cryptographic hashing algorithm built on recursive geometric expansion."
+
+[lib]
+name = "uxandeh"
+path = "src/lib.rs"
+
+[dependencies]
+# Zero external dependencies

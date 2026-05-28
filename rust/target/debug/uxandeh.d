@@ -1,0 +1,1 @@
+/Users/jacob/Projects/uxandeh/rust/target/debug/uxandeh: /Users/jacob/Projects/uxandeh/rust/src/compression.rs /Users/jacob/Projects/uxandeh/rust/src/hash.rs /Users/jacob/Projects/uxandeh/rust/src/lib.rs /Users/jacob/Projects/uxandeh/rust/src/main.rs /Users/jacob/Projects/uxandeh/rust/src/sona.rs
